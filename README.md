@@ -19,7 +19,6 @@ Each BeatsApe represents **creativity, fun, and ownership** in the iO Beats ecos
   <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-animate.gif" alt="BeatsApe Animated" width="500px" />
 </p>
 
-
 ---
 
 ## 📌 Utilities & Roadmap
@@ -29,6 +28,11 @@ Each BeatsApe represents **creativity, fun, and ownership** in the iO Beats ecos
 - 🗳 Governance perks in the iO Beats DAO  
 
 Roadmap details: [iO Beats Roadmap](https://open.iobeats.com/roadmap-iob)
+
+---
+
+## 🔗 Collection on OpenSea
+👉 [View BeatsApe on OpenSea](https://opensea.io/collection/beatsape)
 
 ---
 
