@@ -1,51 +1,40 @@
+# BeatsApe — The NFT Mascot of IO Beats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-logo.png" alt="BeatsApe Logo" width="220"/>
+  <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-banner.png" alt="BeatsApe Banner" width="100%" />
 </p>
 
-# 🦍 BeatsApe — The Official NFT Mascot of iO Beats
-
-**BeatsApe** is the iconic mascot of the [IO Beats](https://iobeats.com) Web3 music ecosystem — blending **NFTs, music, and culture** into one powerful community symbol.  
-
-BeatsApe NFTs represent **creativity, ownership, and identity** in the iO Beats universe. Each mascot embodies the spirit of music, Web3 freedom, and community vibes.  
+## 🎨 About BeatsApe
+BeatsApe is the **official NFT mascot of iO Beats**, symbolizing music, Web3, and community culture.  
+Each BeatsApe represents **creativity, fun, and ownership** in the iO Beats ecosystem.
 
 ---
 
-## 🎨 What is BeatsApe?
-- 🪙 **NFT Collection** — Each BeatsApe is a unique digital collectible.  
-- 🎵 **Music Vibes** — The mascot represents the iO Beats connection between Web3 & music.  
-- 🌐 **Community Symbol** — A true icon for events, rooftop parties, and DeFi activations.  
-- 🎭 **Multiple Styles** — DJ, streetwear, futuristic, luxury, and more.  
+## 🖼 Visuals
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-logo.png" alt="BeatsApe Logo" width="300px" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-animated.gif" alt="BeatsApe Animated" width="500px" />
+</p>
 
 ---
 
-## 📂 Repository Content
-- `assets/` → Images, logos, banners, GIFs of BeatsApe.  
-- `docs/` → Technical documentation (NFT metadata, contract info).  
-- `README.md` → This presentation file.  
+## 📌 Utilities & Roadmap
+- 🎵 NFT Collectibles integrated with iO Beats Marketplace  
+- 🪙 Exclusive rewards for BeatsApe holders  
+- 🎉 Access to IO Beats Rooftop Events  
+- 🗳 Governance perks in the iO Beats DAO  
+
+Roadmap details: [iO Beats Roadmap](https://open.iobeats.com/roadmap-iob)
 
 ---
 
-## 🌍 Related IO Beats Links
+## 🌍 Community
+- 🌐 [Website](https://iobeats.com)  
 - 🎧 [Open Player](https://open.iobeats.com)  
-- 🪙 [Token Page](https://open.iobeats.com/token)  
-- 📘 [Docs](https://docs.iobeats.com)  
-- 🐦 [Twitter / X](https://x.com/iobeats)  
-- 📲 [Telegram](https://t.me/iobeatsofficial)  
-
----
-
-## ✨ Roadmap
-- ✅ Mascot reveal & first NFTs  
-- 🚀 Integration with IO Beats Rooftop Events  
-- 🔜 Animated BeatsApe airdrops  
-- 🌐 Expansion to metaverse collaborations  
-
----
-
-## 🛡 License
-All assets in this repository are protected by the iO Beats copyright & NFT ownership model.  
-Usage outside the iO Beats ecosystem requires explicit authorization.  
-
----
-
-<p align="center"><b>One mascot, one vibe — BeatsApe 🦍🎶</b></p>
+- 📲 [Telegram](https://t.me/iobeatsofficial) • [Community](https://t.me/iobeatscommunity)  
+- 🐦 [X / Twitter](https://x.com/iobeats)  
+- 💬 [Discord](https://discord.com/invite/7bUdykX1j)  
+- 📘 [GitBook Docs](https://docs.iobeats.com)  
