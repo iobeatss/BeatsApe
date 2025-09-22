@@ -1,0 +1,55 @@
+{
+  // Nom visible sur les marketplaces
+  "name": "BeatsApe #001",
+
+  // Description riche, prends en charge le Markdown sur certaines plateformes
+  "description": "The official mascot NFT of IO Beats — music, fun, and Web3 identity. Owning a BeatsApe unlocks events, rewards and governance inside the IO Beats ecosystem.",
+
+  // Image de couverture (PNG/JPG/SVG). Remplace CID par le tien.
+  "image": "ipfs://QmYourImageCID/beatsape-001.png",
+
+  // Média alternatif/animé (video, GIF, HTML). Très utile pour les NFT animés.
+  // OpenSea affichera animation_url si présent (et image en fallback).
+  "animation_url": "ipfs://QmYourAnimCID/beatsape-001.mp4",
+
+  // URL externe pointant vers une page projet / profil NFT
+  "external_url": "https://iobeats.com/nft/beatsape/001",
+
+  // Couleur d'arrière-plan (hex **sans #**) supportée par OpenSea
+  "background_color": "0A4D2C",
+
+  // Attributs / Traits (OpenSea: 'attributes') — tu peux combiner
+  "attributes": [
+    { "trait_type": "Background", "value": "Green Glow" },
+    { "trait_type": "Outfit", "value": "Hoodie Blue" },
+    { "trait_type": "Headphones", "value": "Silver" },
+    { "trait_type": "Rarity", "value": "Legendary" },
+
+    // Affichages numériques (barres/boosts)
+    { "display_type": "number", "trait_type": "BPM", "value": 128 },
+    { "display_type": "boost_percentage", "trait_type": "Rewards Boost", "value": 15 },
+    { "display_type": "boost_number", "trait_type": "Staking Power", "value": 3 },
+
+    // Timestamps (Unix seconds) — OpenSea comprend display_type "date"
+    { "display_type": "date", "trait_type": "Minted", "value": 1735603200 } // 2024-12-31
+  ],
+
+  // Optionnel : section 'properties' (souvent utilisée par IPFS + marketplaces)
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "ipfs://QmYourImageCID/beatsape-001.png", "type": "image/png" },
+      { "uri": "ipfs://QmYourAnimCID/beatsape-001.mp4", "type": "video/mp4" }
+    ],
+    "creators": [
+      { "address": "0x1234567890abcdef1234567890abcdef12345678", "share": 100 }
+    ]
+  },
+
+  // Métadonnées techniques / projet
+  "compiler": "BeatsApe Metadata Tool v1.0",
+  "collection": {
+    "name": "BeatsApe",
+    "family": "IO Beats"
+  }
+}
