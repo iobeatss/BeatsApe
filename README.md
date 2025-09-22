@@ -16,8 +16,9 @@ Each BeatsApe represents **creativity, fun, and ownership** in the iO Beats ecos
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-animated.gif" alt="BeatsApe Animated" width="500px" />
+  <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-animate.gif" alt="BeatsApe Animated" width="500px" />
 </p>
+
 
 ---
 
