@@ -1,4 +1,4 @@
-# BeatsApe — The NFT Mascot of IO Beats
+# BeatsApe — The NFT Mascot of iO Beats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-banner.png" alt="BeatsApe Banner" width="100%" />
