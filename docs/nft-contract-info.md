@@ -23,7 +23,7 @@
 
 ## 🪙 Royalties
 - **Recipient**: `0x1234567890abcdef1234567890abcdef12345678`
-- **Fee**: 5% (example)
+- **Fee**: 5%
 
 ## 📚 Notes
 - Replace all CIDs after deploying files to IPFS.
