@@ -1,12 +1,33 @@
 {
   "name": "BeatsApe #001",
-  "description": "The official mascot NFT of IO Beats — fun, music, and Web3 identity.",
-  "image": "ipfs://QmExampleCID/beatsape-001.png",
-  "external_url": "https://iobeats.com",
+  "description": "The official mascot NFT of IO Beats — music, fun, and Web3 identity. Owning a BeatsApe unlocks events, rewards and governance inside the IO Beats ecosystem.",
+  "image": "ipfs://QmYourImageCID/beatsape-001.png",
+  "animation_url": "ipfs://QmYourAnimCID/beatsape-001.mp4",
+  "external_url": "https://iobeats.com/nft/beatsape/001",
+  "background_color": "0A4D2C",
   "attributes": [
-    { "trait_type": "Background", "value": "Green" },
+    { "trait_type": "Background", "value": "Green Glow" },
     { "trait_type": "Outfit", "value": "Hoodie Blue" },
     { "trait_type": "Headphones", "value": "Silver" },
-    { "trait_type": "Rarity", "value": "Legendary" }
-  ]
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "display_type": "number", "trait_type": "BPM", "value": 128 },
+    { "display_type": "boost_percentage", "trait_type": "Rewards Boost", "value": 15 },
+    { "display_type": "boost_number", "trait_type": "Staking Power", "value": 3 },
+    { "display_type": "date", "trait_type": "Minted", "value": 1735603200 }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "ipfs://QmYourImageCID/beatsape-001.png", "type": "image/png" },
+      { "uri": "ipfs://QmYourAnimCID/beatsape-001.mp4", "type": "video/mp4" }
+    ],
+    "creators": [
+      { "address": "0x1234567890abcdef1234567890abcdef12345678", "share": 100 }
+    ]
+  },
+  "compiler": "BeatsApe Metadata Tool v1.0",
+  "collection": {
+    "name": "BeatsApe",
+    "family": "IO Beats"
+  }
 }
