@@ -3,9 +3,6 @@
        alt="IO Beats Treasury Banner" width="100%" />
 </p>
 
-[![Latest Release](https://img.shields.io/github/v/release/iobeatss/treasury?display_name=tag&sort=semver)](https://github.com/iobeatss/treasury/releases)
-[![Release workflow](https://img.shields.io/github/actions/workflow/status/iobeatss/treasury/release-treasury.yml?branch=main&label=Release%20workflow)](https://github.com/iobeatss/treasury/actions/workflows/release-treasury.yml)
-
 
 # BeatsApe — The NFT Mascot of iO Beats
 
@@ -19,16 +16,6 @@ Each BeatsApe represents **creativity, fun, and ownership** in the iO Beats ecos
 
 ---
 
-## 🖼 Visuals
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-logo.png" alt="BeatsApe Logo" width="300px" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-animate.gif" alt="BeatsApe Animated" width="500px" />
-</p>
-
----
 
 ## 📌 Utilities & Roadmap
 - 🎵 NFT Collectibles integrated with iO Beats Marketplace  
