@@ -6,9 +6,7 @@
 
 # BeatsApe — The NFT Mascot of iO Beats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iobeatss/BeatsApe/main/assets/beatsape-banner.png" alt="BeatsApe Banner" width="100%" />
-</p>
+
 
 ## 🎨 About BeatsApe
 BeatsApe is the **official NFT mascot of iO Beats**, symbolizing music, Web3, and community culture.  
