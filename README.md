@@ -49,7 +49,6 @@ Each BeatsApe embodies:
 | 🗳 **Governance** | DAO voting privileges and early proposal participation |
 | 💥 **Brand Expansion** | Future collabs, merch drops, and animated series |
 
-🗺️ **Full Roadmap:** [IO Beats Global Roadmap](https://open.iobeats.com/roadmap-iob)
 
 ---
 
